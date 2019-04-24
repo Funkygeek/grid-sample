@@ -1,5 +1,9 @@
 # GridSample
 
+## Background
+GridSample is to demonstrate how to place panels inside mat-grid to illustrate how to make the grid responsive.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
 
 ## Development server
